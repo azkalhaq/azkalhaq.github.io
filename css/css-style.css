@@ -2,7 +2,7 @@
 
 Tooplate 2115 Marvel
 
-https://www.tooplate.com/view/2115-marvel
+CSS Style by: https://www.tooplate.com/view/2115-marvel
 
 */
 
@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #212121;
-  font-size: 2.8em;
+  font-size: 4em;
   margin: 24px 0;
 }
 
@@ -290,7 +290,8 @@ b, strong {
 .color-mode-icon:after {
   font-family: 'unicons';
   content: '\ea9f';
-  font-size: 30px;
+  /* font-size: 30px; */
+  font-size: 26px;
   font-weight: 300;
   font-style: normal;
 }
